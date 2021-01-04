@@ -1,0 +1,12 @@
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\bin\Debug\netcoreapp3.1\Reactive.Native.Application.deps.json
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\bin\Debug\netcoreapp3.1\Reactive.Native.Application.dll
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\bin\Debug\netcoreapp3.1\Reactive.Native.Application.pdb
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\obj\Debug\netcoreapp3.1\Reactive.Native.Application.csprojAssemblyReference.cache
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\obj\Debug\netcoreapp3.1\Reactive.Native.Application.AssemblyInfoInputs.cache
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\obj\Debug\netcoreapp3.1\Reactive.Native.Application.AssemblyInfo.cs
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\obj\Debug\netcoreapp3.1\Reactive.Native.Application.csproj.CoreCompileInputs.cache
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\obj\Debug\netcoreapp3.1\Reactive.Native.Application.dll
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\obj\Debug\netcoreapp3.1\Reactive.Native.Application.pdb
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\bin\Debug\netcoreapp3.1\Reactive.Native.Domain.dll
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\bin\Debug\netcoreapp3.1\Reactive.Native.Domain.pdb
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Application\obj\Debug\netcoreapp3.1\Reactive.Native.Application.csproj.CopyComplete

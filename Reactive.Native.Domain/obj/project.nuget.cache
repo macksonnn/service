@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9H/l6HtMhX9hAoCyX6quOcE+1MfkF8rzKfVfKMWyC+zdcJPQlZGr87PTIqc38Hzu6rw2xtjNWliZl1BZ0DbUXQ==",
+  "success": true,
+  "projectFilePath": "E:\\src\\ReactNativeService\\slnReactiveNativeService\\Reactive.Native.Domain\\Reactive.Native.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mackson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

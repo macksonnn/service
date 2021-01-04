@@ -1,0 +1,15 @@
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\bin\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.deps.json
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\bin\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.dll
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\bin\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.pdb
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\bin\Debug\netcoreapp3.1\Reactive.Native.Domain.dll
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\bin\Debug\netcoreapp3.1\Reactive.Native.Domain.pdb
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\obj\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.csprojAssemblyReference.cache
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\obj\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.AssemblyInfoInputs.cache
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\obj\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.AssemblyInfo.cs
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\obj\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.csproj.CoreCompileInputs.cache
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\obj\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.csproj.CopyComplete
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\obj\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.dll
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\obj\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.pdb
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\bin\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.runtimeconfig.json
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\bin\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.runtimeconfig.dev.json
+E:\src\ReactNativeService\slnReactiveNativeService\Reactive.Native.Infrastructure\obj\Debug\netcoreapp3.1\Reactive.Native.Infrastructure.genruntimeconfig.cache

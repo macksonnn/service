@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reactive.Native.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Reactive.Native.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Reactive.Native.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reactive.Native.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Reactive.Native.Domain/Reactive.Native.Domain.csproj",
+      "msbuildProject": "../Reactive.Native.Domain/Reactive.Native.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Reactive.Native.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mackson\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\src\\ReactNativeService\\slnReactiveNativeService\\Reactive.Native.Application\\Reactive.Native.Application.csproj",
+      "projectName": "Reactive.Native.Application",
+      "projectPath": "E:\\src\\ReactNativeService\\slnReactiveNativeService\\Reactive.Native.Application\\Reactive.Native.Application.csproj",
+      "packagesPath": "C:\\Users\\Mackson\\.nuget\\packages\\",
+      "outputPath": "E:\\src\\ReactNativeService\\slnReactiveNativeService\\Reactive.Native.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Mackson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "E:\\src\\ReactNativeService\\slnReactiveNativeService\\Reactive.Native.Domain\\Reactive.Native.Domain.csproj": {
+              "projectPath": "E:\\src\\ReactNativeService\\slnReactiveNativeService\\Reactive.Native.Domain\\Reactive.Native.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

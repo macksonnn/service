@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bniJlC1LPDXKA1tTTsW44v2V3bugsgsIP8xmstc7UrlFEo1u90s7Z7HHoxHW6wi+CdNyyvfaAZ6jBPonGkCp2w==",
+  "success": true,
+  "projectFilePath": "E:\\src\\ReactNativeService\\slnReactiveNativeService\\Reactive.Native.IoC\\Reactive.Native.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mackson\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mackson\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.0\\microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\Mackson\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Mackson\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mackson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
